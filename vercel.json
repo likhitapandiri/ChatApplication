@@ -27,6 +27,7 @@
     "MONGODB_URI": "mongodb+srv://likhita:AACwbvw4r0qRxwOG@cluster0.bfnazzh.mongodb.net/",
     "JWT_SECRET":"LikhitaPandiri",
     "NODE_ENV":"production",
-    "PORT":"5000"
+    "PORT":"5000",
+    "CI":true
   }
 }
