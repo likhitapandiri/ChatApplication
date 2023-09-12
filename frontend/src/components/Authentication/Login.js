@@ -22,7 +22,6 @@ const Login = () => {
   const history = useHistory();
   const handleClick = () => setShow(!show);
 
-  const postDetails = (pics) => {};
 
   const submitHandler = async () => {
     setloading(true);
